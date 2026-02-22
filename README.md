@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on [Communicator](https://github.com/Maersk-Global/apmt-digital-core-communicator)<br>
+👯 I’m looking to collaborate on[HazDv](https://github.com/Maersk-Global/apmt-cps-hazdv-processor)<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about Java, Kotlin<br>
 
 
 ## 🌐 Socials:
