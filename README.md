@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [Communicator](https://github.com/Maersk-Global/apmt-digital-core-communicator)<br>
-👯 I’m looking to collaborate on[HazDv](https://github.com/Maersk-Global/apmt-cps-hazdv-processor)<br>
-🤝 I’m looking for help with<br>
+👯 I’m looking to collaborate on [HazDv](https://github.com/Maersk-Global/apmt-cps-hazdv-processor)<br>
+🤝 I’m looking for help with [SOS](https://github.com/Maersk-Global/apmt-cps-service-ordering-service), [order-processing](https://github.com/Maersk-Global/apmt-cps-o2p-order-processing)<br>
 🌱 I’m currently learning<br>
 💬 Ask me about Java, Kotlin<br>
 
