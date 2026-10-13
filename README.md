@@ -1,9 +1,11 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # 💫 About Me:
-🔭 I’m currently working on [Communicator](https://github.com/Maersk-Global/apmt-digital-core-communicator)<br>
-👯 I’m looking to collaborate on [HazDv](https://github.com/Maersk-Global/apmt-cps-hazdv-processor)<br>
-🤝 I’m looking for help with [SOS](https://github.com/Maersk-Global/apmt-cps-service-ordering-service), [order-processing](https://github.com/Maersk-Global/apmt-cps-o2p-order-processing)<br>
-🌱 I’m currently learning<br>
-💬 Ask me about Java, Kotlin<br>
+🔭 Currently building **[Communicator](https://github.com/Maersk-Global/apmt-digital-core-communicator)**<br>
+🤝 Contributing to **[order-processing](https://github.com/Maersk-Global/apmt-cps-o2p-order-processing)** & **[SOS](https://github.com/Maersk-Global/apmt-cps-service-ordering-service)**<br>
+🧪 Exploring **[HazDv](https://github.com/Maersk-Global/apmt-cps-hazdv-processor)**<br>
+💬 Ask me about **Java · Kotlin · Spring · distributed systems**<br>
+📍 Bengaluru, India · 📫 shrikar.kulkarni@maersk.com<br>
 
 
 ## 🌐 Socials:
@@ -16,6 +18,6 @@
 ![Metrics](./github-metrics.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shrikar-maersk&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shrikar-maersk&label=Profile+views&color=0e75b6&style=flat) [![](https://visitcount.itsvg.in/api?id=shrikar-maersk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
