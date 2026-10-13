@@ -1,9 +1,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💫 About Me:
-🔭 Currently building **Knowledgepoint**<br>
-🤝 Contributing to **[order-processing](https://github.com/Maersk-Global/apmt-cps-o2p-order-processing)** & **[SOS](https://github.com/Maersk-Global/apmt-cps-service-ordering-service)**<br>
-🧪 Exploring **[HazDv](https://github.com/Maersk-Global/apmt-cps-hazdv-processor)**<br>
+🔭 Currently building **[Knowledgepoint](https://github.com/Maersk-Global/knowledgepoint)**<br>
+🤝 Contributing to **[Knowledgepoint-graphcrawler](https://github.com/Maersk-Global/knowledgepoint-graphcrawler)** & **[Knowledgepoint-searchservice](https://github.com/Maersk-Global/knowledgepoint-searchservice)**<br>
 💬 Ask me about **Java · Kotlin · Spring · distributed systems**<br>
 📍 Bengaluru, India · 📫 shrikar.kulkarni@maersk.com<br>
 
