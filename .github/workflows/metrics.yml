@@ -21,7 +21,6 @@ jobs:
           template: classic
           base: header, metadata
           config_timezone: Asia/Kolkata
-          config_display: columns
 
           # Dark theme to match the profile (SVG defaults to light)
           extras_css: |
@@ -46,7 +45,3 @@ jobs:
           # Contribution calendar (works — uses contributionsCollection)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Stars
-          plugin_stars: yes
-          plugin_stars_limit: 4
