@@ -19,6 +19,10 @@
 | <img align="center" src="./profile-summary-card-output/github/3-stats.svg" alt="Shrikar's GitHub stats" /> | <img align="center" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages" /> |
 | ------------- | ------------- |
 
+<p align="center">
+  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
+</p>
+
 ---
 ![](https://komarev.com/ghpvc/?username=shrikar-maersk&label=Profile+views&color=0e75b6&style=flat) [![](https://visitcount.itsvg.in/api?id=shrikar-maersk&icon=0&color=0)](https://visitcount.itsvg.in)
 
